@@ -1,0 +1,1 @@
+UPDATE demo_table SET description = 'Updated data' WHERE id = 4;
